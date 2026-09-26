@@ -1,0 +1,20 @@
+📌 Payback period. The simplest investment appraisal method and the most common calculation trap.
+
+📚 Definition: the length of time it takes for an investment to generate enough net cash inflow to recover its initial cost. Formula: initial investment / annual net cash inflow. Used in months or years.
+
+📈 The calculation assumes constant annual cash flows. If the flows are different each year, add them cumulatively until they equal the initial outlay, then calculate the remaining months.
+
+⚠️ Payback period ignores profitability after the payback point. A project that pays back in two years and earns nothing afterwards scores identically to a project that pays back in two years and earns heavily for ten more. That is a built-in evaluation limitation.
+
+💾 Payback is the first step. ARR is the second. IRR or NPV (if taught) is the third. Use all three together on a 12-mark investment appraisal question.
+
+👇 Save this. Investment appraisal questions appear on Paper 2 and 3 at A-Level.
+
+－－－－
+About me:
+🕵️‍♂️ Londoner. Obsessed in reading and writing.
+👨‍🏫 Full-time top local comprehensive school teacher with QTS plus global experience
+🏫 Studied in Oxford University, UCL and the University of Hong Kong (HKU)
+🏎️ Learn to nail your exams like a PRO - DM to book your first lesson.
+
+#ALevelBusiness #EdexcelBusiness #PaybackPeriod #InvestmentAppraisal #ExamTechnique #BusinessStudies #ALevels2027

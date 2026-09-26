@@ -1,0 +1,20 @@
+📌 A-Level 2025. One script used the new price as the denominator. 0/4. No method mark.
+
+📚 PED = % change in quantity demanded / % change in price. % change = (new - original) / original x 100. Original always goes on the bottom. New figure on the bottom: zero marks, however neat the rest of the working.
+
+📈 Same brewery, same 8% price rise. Cask ale PED -0.5: revenue up 3.7%. Canned range PED -1.8: revenue down 7.6%. Same price rise, opposite outcomes depending on how many substitutes the buyer sees on the shelf.
+
+⚠️ A number with no interpretation earns little. The marks come from saying "inelastic, so a price rise increases revenue" not just writing -0.5.
+
+💾 The calculation is one step. The conclusion about revenue is where the marks actually sit.
+
+👇 Save this. The formula trap is in every exam year.
+
+－－－－
+About me:
+🕵️‍♂️ Londoner. Obsessed in reading and writing.
+👨‍🏫 Full-time top local comprehensive school teacher with QTS plus global experience
+🏫 Studied in Oxford University, UCL and the University of Hong Kong (HKU)
+🏎️ Learn to nail your exams like a PRO - DM to book your first lesson.
+
+#ALevelBusiness #EdexcelBusiness #PriceElasticity #PED #ExamTechnique #BusinessStudies #ALevels2027

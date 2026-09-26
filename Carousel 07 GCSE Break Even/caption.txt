@@ -1,0 +1,20 @@
+📌 GCSE 2025. Correct working, wrong answer: 0 marks. Right answer, almost no working: 2 marks.
+
+📚 The question: break-even 3,000 units, price £7, variable cost £3. What are the fixed costs? The common answer was £60,000. The right answer is £12,000.
+
+📈 Contribution per unit = £7 - £3 = £4. Fixed costs = 3,000 x £4 = £12,000. The £60,000 error comes from multiplying by total output, not break-even output.
+
+⚠️ The examiner wrote: "The correct answer has been given so two marks can be awarded without any consideration to the workings." Edexcel GCSE 2025, Paper 1 Q2(c).
+
+💾 Learn why the formula works and the rearrangement becomes automatic.
+
+👇 Save this for your next calculation question.
+
+－－－－
+About me:
+🕵️‍♂️ Londoner. Obsessed in reading and writing.
+👨‍🏫 Full-time top local comprehensive school teacher with QTS plus global experience
+🏫 Studied in Oxford University, UCL and the University of Hong Kong (HKU)
+🏎️ Learn to nail your exams like a PRO - DM to book your first lesson.
+
+#GCSEBusiness #EdexcelGCSE #BreakEven #ExamTechnique #BusinessStudies #GCSE2027 #BusinessTutor
